@@ -1,0 +1,19 @@
+{
+  "unversionedId": "framework/routing/defining-routes",
+  "id": "framework/routing/defining-routes",
+  "isDocsHomePage": false,
+  "title": "Defining Routes",
+  "description": "Every time you add a route to the Map, you get back a Route object. The Route object is pretty powerful, and allows you to define a wide range of matching conditions. All of the Route methods are fluent, so you can chain them together.",
+  "source": "@site/docs/framework/routing/defining-routes.md",
+  "sourceDirName": "framework/routing",
+  "slug": "/framework/routing/defining-routes",
+  "permalink": "/docs/framework/routing/defining-routes",
+  "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/routing/defining-routes.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "framework",
+  "previous": {
+    "title": "Attaching Route Groups",
+    "permalink": "/docs/framework/routing/attaching-route-groups"
+  }
+}

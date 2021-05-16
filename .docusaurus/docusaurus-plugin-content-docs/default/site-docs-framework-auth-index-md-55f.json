@@ -1,0 +1,25 @@
+{
+  "unversionedId": "framework/auth/index",
+  "id": "framework/auth/index",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Authentication for PHP. Simple, lightweight and secure.",
+  "source": "@site/docs/framework/auth/index.md",
+  "sourceDirName": "framework/auth",
+  "slug": "/framework/auth/index",
+  "permalink": "/docs/framework/auth/index",
+  "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/auth/index.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Introduction"
+  },
+  "sidebar": "framework",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/docs/framework/configuration"
+  },
+  "next": {
+    "title": "Controller",
+    "permalink": "/docs/framework/basics/controller"
+  }
+}

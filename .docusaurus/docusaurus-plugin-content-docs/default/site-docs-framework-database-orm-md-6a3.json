@@ -1,0 +1,23 @@
+{
+  "unversionedId": "framework/database/orm",
+  "id": "framework/database/orm",
+  "isDocsHomePage": false,
+  "title": "orm",
+  "description": "",
+  "source": "@site/docs/framework/database/orm.md",
+  "sourceDirName": "framework/database",
+  "slug": "/framework/database/orm",
+  "permalink": "/docs/framework/database/orm",
+  "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/database/orm.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "framework",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/framework/database/migrations"
+  },
+  "next": {
+    "title": "Attaching Route Groups",
+    "permalink": "/docs/framework/routing/attaching-route-groups"
+  }
+}

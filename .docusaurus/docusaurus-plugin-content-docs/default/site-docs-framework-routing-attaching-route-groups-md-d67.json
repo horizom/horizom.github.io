@@ -1,0 +1,23 @@
+{
+  "unversionedId": "framework/routing/attaching-route-groups",
+  "id": "framework/routing/attaching-route-groups",
+  "isDocsHomePage": false,
+  "title": "Attaching Route Groups",
+  "description": "You can add a series of routes under a single master path in the Map using the Map::attach() method with a name prefix, path prefix, and a callable to perform the attachment logic. The callable must take a Map as its only argument.",
+  "source": "@site/docs/framework/routing/attaching-route-groups.md",
+  "sourceDirName": "framework/routing",
+  "slug": "/framework/routing/attaching-route-groups",
+  "permalink": "/docs/framework/routing/attaching-route-groups",
+  "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/routing/attaching-route-groups.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "framework",
+  "previous": {
+    "title": "orm",
+    "permalink": "/docs/framework/database/orm"
+  },
+  "next": {
+    "title": "Defining Routes",
+    "permalink": "/docs/framework/routing/defining-routes"
+  }
+}

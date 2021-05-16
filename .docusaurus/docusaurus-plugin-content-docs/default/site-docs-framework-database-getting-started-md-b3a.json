@@ -1,0 +1,23 @@
+{
+  "unversionedId": "framework/database/getting-started",
+  "id": "framework/database/getting-started",
+  "isDocsHomePage": false,
+  "title": "getting-started",
+  "description": "",
+  "source": "@site/docs/framework/database/getting-started.md",
+  "sourceDirName": "framework/database",
+  "slug": "/framework/database/getting-started",
+  "permalink": "/docs/framework/database/getting-started",
+  "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/database/getting-started.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "framework",
+  "previous": {
+    "title": "Response",
+    "permalink": "/docs/framework/basics/response"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/framework/database/migrations"
+  }
+}

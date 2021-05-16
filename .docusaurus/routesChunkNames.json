@@ -1,0 +1,192 @@
+{
+  "/-deb": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  },
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/blog-025": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-591-0dd",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      },
+      {
+        "content": "content---blog-357-22b"
+      },
+      {
+        "content": "content---blog-8-e-9-35c"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/hello-world-99d": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-591-0dd",
+    "content": "content---blog-hello-worldd-61-086"
+  },
+  "/blog/hola-8b1": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-591-0dd",
+    "content": "content---blog-holabdd-150"
+  },
+  "/blog/tags-94b": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blog-591-0dd",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/docusaurus-79a": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-591-0dd",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      },
+      {
+        "content": "content---blog-357-22b"
+      },
+      {
+        "content": "content---blog-8-e-9-35c"
+      }
+    ],
+    "metadata": "metadata---blog-tags-docusaurusa-80-728"
+  },
+  "/blog/tags/facebook-0a8": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-591-0dd",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      }
+    ],
+    "metadata": "metadata---blog-tags-facebook-031-c52"
+  },
+  "/blog/tags/hello-49a": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-591-0dd",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      },
+      {
+        "content": "content---blog-357-22b"
+      }
+    ],
+    "metadata": "metadata---blog-tags-hello-30-a-bed"
+  },
+  "/blog/tags/hola-b1d": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-591-0dd",
+    "items": [
+      {
+        "content": "content---blog-8-e-9-35c"
+      }
+    ],
+    "metadata": "metadata---blog-tags-holae-16-18a"
+  },
+  "/blog/welcome-c9a": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-591-0dd",
+    "content": "content---blog-welcome-286-e55"
+  },
+  "/legal/cookie-policy-359": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---legal-cookie-policy-666-7ea"
+  },
+  "/legal/privacy-aab": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---legal-privacy-2-e-5-177"
+  },
+  "/legal/terms-a9d": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---legal-termsdce-89a"
+  },
+  "/search-79a": {
+    "component": "component---theme-search-page-1-a-4-d6f"
+  },
+  "/docs-565": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/cms-f89": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-cms-817-8ad"
+  },
+  "/docs/cms/configuration-842": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-cms-configuration-590-17c"
+  },
+  "/docs/cms/installation-e64": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-cms-installation-752-6bc"
+  },
+  "/docs/framework-e11": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-1-c-8-ccd"
+  },
+  "/docs/framework/auth/index-3e5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-auth-index-55-f-40b"
+  },
+  "/docs/framework/basics/controller-bc9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-basics-controlleraa-3-72f"
+  },
+  "/docs/framework/basics/request-e58": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-basics-requestc-91-e22"
+  },
+  "/docs/framework/basics/response-5cc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-basics-response-544-e30"
+  },
+  "/docs/framework/configuration-44d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-configuration-8-f-3-bef"
+  },
+  "/docs/framework/database/getting-started-bf0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-database-getting-startedb-3-a-9d3"
+  },
+  "/docs/framework/database/migrations-416": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-database-migrations-32-b-322"
+  },
+  "/docs/framework/database/orm-fb8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-database-orm-6-a-3-2bf"
+  },
+  "/docs/framework/installation-731": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-installation-469-f96"
+  },
+  "/docs/framework/routing/attaching-route-groups-34c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-routing-attaching-route-groupsd-67-9dc"
+  },
+  "/docs/framework/routing/defining-routes-0b3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-routing-defining-routes-656-6ea"
+  }
+}

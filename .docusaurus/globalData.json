@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "cms/index",
+          "docs": [
+            {
+              "id": "cms/configuration",
+              "path": "/docs/cms/configuration",
+              "sidebar": "cms"
+            },
+            {
+              "id": "cms/index",
+              "path": "/docs/cms",
+              "sidebar": "cms"
+            },
+            {
+              "id": "cms/installation",
+              "path": "/docs/cms/installation",
+              "sidebar": "cms"
+            },
+            {
+              "id": "framework/auth/index",
+              "path": "/docs/framework/auth/index",
+              "sidebar": "framework"
+            },
+            {
+              "id": "framework/basics/controller",
+              "path": "/docs/framework/basics/controller",
+              "sidebar": "framework"
+            },
+            {
+              "id": "framework/basics/request",
+              "path": "/docs/framework/basics/request",
+              "sidebar": "framework"
+            },
+            {
+              "id": "framework/basics/response",
+              "path": "/docs/framework/basics/response",
+              "sidebar": "framework"
+            },
+            {
+              "id": "framework/configuration",
+              "path": "/docs/framework/configuration",
+              "sidebar": "framework"
+            },
+            {
+              "id": "framework/database/getting-started",
+              "path": "/docs/framework/database/getting-started",
+              "sidebar": "framework"
+            },
+            {
+              "id": "framework/database/migrations",
+              "path": "/docs/framework/database/migrations",
+              "sidebar": "framework"
+            },
+            {
+              "id": "framework/database/orm",
+              "path": "/docs/framework/database/orm",
+              "sidebar": "framework"
+            },
+            {
+              "id": "framework/index",
+              "path": "/docs/framework",
+              "sidebar": "framework"
+            },
+            {
+              "id": "framework/installation",
+              "path": "/docs/framework/installation",
+              "sidebar": "framework"
+            },
+            {
+              "id": "framework/routing/attaching-route-groups",
+              "path": "/docs/framework/routing/attaching-route-groups",
+              "sidebar": "framework"
+            },
+            {
+              "id": "framework/routing/defining-routes",
+              "path": "/docs/framework/routing/defining-routes",
+              "sidebar": "framework"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

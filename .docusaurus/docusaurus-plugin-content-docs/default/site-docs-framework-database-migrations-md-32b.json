@@ -1,0 +1,23 @@
+{
+  "unversionedId": "framework/database/migrations",
+  "id": "framework/database/migrations",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Migrations are like version control for your database, allowing your team to define and share the application's database schema definition. If you have ever had to tell a teammate to manually add a column to their local database schema after pulling in your changes from source control, you've faced the problem that database migrations solve.",
+  "source": "@site/docs/framework/database/migrations.md",
+  "sourceDirName": "framework/database",
+  "slug": "/framework/database/migrations",
+  "permalink": "/docs/framework/database/migrations",
+  "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/database/migrations.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "framework",
+  "previous": {
+    "title": "getting-started",
+    "permalink": "/docs/framework/database/getting-started"
+  },
+  "next": {
+    "title": "orm",
+    "permalink": "/docs/framework/database/orm"
+  }
+}

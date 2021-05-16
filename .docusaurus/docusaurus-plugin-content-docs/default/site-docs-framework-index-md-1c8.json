@@ -1,0 +1,25 @@
+{
+  "unversionedId": "framework/index",
+  "id": "framework/index",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Total Downloads Latest Stable Version License",
+  "source": "@site/docs/framework/index.md",
+  "sourceDirName": "framework",
+  "slug": "/framework",
+  "permalink": "/docs/framework",
+  "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/index.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "index",
+    "slug": "/framework",
+    "title": "Introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "framework",
+  "next": {
+    "title": "Installation",
+    "permalink": "/docs/framework/installation"
+  }
+}
