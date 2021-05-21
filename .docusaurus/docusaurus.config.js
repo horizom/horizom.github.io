@@ -250,7 +250,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/edy/www/repo/horizom/docs/sidebars.js",
+          "sidebarPath": "/Volumes/Save/www/horizom.github.io/sidebars.js",
           "editUrl": "https://github.com/horizom/docs/edit/master/"
         },
         "blog": {
@@ -261,14 +261,14 @@ export default {
           "editUrl": "https://github.com/horizom/docs/edit/master/blog/"
         },
         "theme": {
-          "customCss": "/Users/edy/www/repo/horizom/docs/src/css/custom.css"
+          "customCss": "/Volumes/Save/www/horizom.github.io/src/css/custom.css"
         }
       }
     ]
   ],
   "plugins": [
     [
-      "/Users/edy/www/repo/horizom/docs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      "/Volumes/Save/www/horizom.github.io/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
       {
         "hashed": true
       }

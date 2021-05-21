@@ -10,9 +10,9 @@
           "versionEditUrlLocalized": "https://github.com/horizom/docs/edit/master/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/edy/www/repo/horizom/docs/sidebars.js",
-          "contentPath": "/Users/edy/www/repo/horizom/docs/docs",
-          "contentPathLocalized": "/Users/edy/www/repo/horizom/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Volumes/Save/www/horizom.github.io/sidebars.js",
+          "contentPath": "/Volumes/Save/www/horizom.github.io/docs",
+          "contentPathLocalized": "/Volumes/Save/www/horizom.github.io/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "cms/index",
           "sidebars": {
             "cms": [
@@ -657,6 +657,16 @@
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/cms/",
+        "source": "@site/src/pages/cms/index.jsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/framework/",
+        "source": "@site/src/pages/framework/index.jsx"
       },
       {
         "type": "mdx",

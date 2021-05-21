@@ -1,4 +1,4 @@
-import lunr from "/Users/edy/www/repo/horizom/docs/node_modules/lunr/lunr.js";
+import lunr from "/Volumes/Save/www/horizom.github.io/node_modules/lunr/lunr.js";
 export const language = ["en"];
 export const removeDefaultStopWordFilter = false;
 export const Mark = null;
