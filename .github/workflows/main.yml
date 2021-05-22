@@ -3,21 +3,22 @@ name: Build & Deploy
 on:
   push:
     branches:
-      - master  # Set a branch name to trigger deployment
+      - master # Set a branch name to trigger deployment
 
 jobs:
-  
   deploy:
-    
     runs-on: ubuntu-latest
 
     steps:
       - name: 🚚 Get latest source code
         uses: actions/checkout@v2
-      
+
       - name: 📦 Install dependencies
+        run: npm Install
+
+      - name: 📦 Install dependencies 2
         run: npm ci
-      
+
       - name: 🔨 Build project
         run: npm run build
 
