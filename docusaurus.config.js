@@ -1,4 +1,6 @@
-/** @type {import('@docusaurus/types').DocusaurusConfig} */
+/** 
+ * @type {import('@docusaurus/types').DocusaurusConfig} 
+ * */
 
 module.exports = {
     title: 'Horizom',
@@ -32,6 +34,12 @@ module.exports = {
                     docId: 'framework/index',
                     position: 'right',
                     label: 'Framework',
+                },
+                {
+                    type: 'doc',
+                    docId: 'cms/index',
+                    position: 'right',
+                    label: 'CMS',
                 },
                 { to: '/blog', label: 'Blog', position: 'right' },
                 {

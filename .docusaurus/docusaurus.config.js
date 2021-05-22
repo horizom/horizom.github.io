@@ -40,6 +40,13 @@ export default {
           "activeSidebarClassName": "navbar__link--active"
         },
         {
+          "type": "doc",
+          "docId": "cms/index",
+          "position": "right",
+          "label": "CMS",
+          "activeSidebarClassName": "navbar__link--active"
+        },
+        {
           "to": "/blog",
           "label": "Blog",
           "position": "right"

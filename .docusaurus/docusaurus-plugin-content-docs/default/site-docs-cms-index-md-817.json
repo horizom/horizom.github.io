@@ -1,0 +1,25 @@
+{
+  "unversionedId": "cms/index",
+  "id": "cms/index",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "The best framework",
+  "source": "@site/docs/cms/index.md",
+  "sourceDirName": "cms",
+  "slug": "/cms",
+  "permalink": "/docs/cms",
+  "editUrl": "https://github.com/horizom/docs/edit/master/docs/cms/index.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "index",
+    "slug": "/cms",
+    "title": "Introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "cms",
+  "next": {
+    "title": "Installation",
+    "permalink": "/docs/cms/installation"
+  }
+}

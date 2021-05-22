@@ -15,7 +15,11 @@
   },
   "sidebar": "framework",
   "previous": {
-    "title": "orm",
-    "permalink": "/docs/framework/database/orm"
+    "title": "Configuration",
+    "permalink": "/docs/framework/configuration"
+  },
+  "next": {
+    "title": "Controller",
+    "permalink": "/docs/framework/basics/controller"
   }
 }

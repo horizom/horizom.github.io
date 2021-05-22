@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "framework",
   "previous": {
-    "title": "Response",
-    "permalink": "/docs/framework/basics/response"
+    "title": "orm",
+    "permalink": "/docs/framework/database/orm"
   },
   "next": {
     "title": "Defining Routes",

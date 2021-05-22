@@ -19,6 +19,14 @@ function Buttons() {
           Framework
         </Link>
       </div>
+      <div className="col col--4">
+        <Link
+          className="button button--outline button--primary button--lg"
+          to="/docs/cms"
+        >
+          CMS
+        </Link>
+      </div>
     </div>
   )
 }

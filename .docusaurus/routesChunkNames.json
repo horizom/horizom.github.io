@@ -88,6 +88,10 @@
     "sidebar": "8cc685bc",
     "content": "2868cdab"
   },
+  "/cms/-9c8": {
+    "component": "5495746f",
+    "config": "5e9f5e1a"
+  },
   "/framework/-013": {
     "component": "cbd62c95",
     "config": "5e9f5e1a"
@@ -107,9 +111,21 @@
   "/search-79a": {
     "component": "1a4e3797"
   },
-  "/docs-d7d": {
+  "/docs-565": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
+  },
+  "/docs/cms-f89": {
+    "component": "17896441",
+    "content": "8172490d"
+  },
+  "/docs/cms/configuration-842": {
+    "component": "17896441",
+    "content": "590d2842"
+  },
+  "/docs/cms/installation-e64": {
+    "component": "17896441",
+    "content": "7522266f"
   },
   "/docs/framework-e11": {
     "component": "17896441",
