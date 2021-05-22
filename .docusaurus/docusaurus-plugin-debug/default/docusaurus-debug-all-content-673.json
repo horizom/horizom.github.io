@@ -660,13 +660,13 @@
       },
       {
         "type": "jsx",
-        "permalink": "/framework/",
-        "source": "@site/src/pages/framework/index.jsx"
+        "permalink": "/cms/",
+        "source": "@site/src/pages/cms/index.jsx"
       },
       {
         "type": "jsx",
-        "permalink": "/cms/",
-        "source": "@site/src/pages/cms/index.jsx"
+        "permalink": "/framework/",
+        "source": "@site/src/pages/framework/index.jsx"
       },
       {
         "type": "mdx",

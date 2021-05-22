@@ -7,7 +7,7 @@ module.exports = {
     tagline: 'A PHP lightness framework & CMS',
     url: 'https://horizom.github.io',
     baseUrl: '/',
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'ignore',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.png',
     organizationName: 'horizom', // Usually your GitHub org/user name.

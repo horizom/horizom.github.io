@@ -14,8 +14,11 @@ jobs:
     steps:
       - name: 🚚 Get latest source code
         uses: actions/checkout@v2
-      
-      - name: 📦 Install dependencies
+
+      - name: 📦 Install dependencies 1
+        run: npm install
+
+      - name: 📦 Install dependencies 2
         run: npm ci
       
       - name: 🔨 Build project
