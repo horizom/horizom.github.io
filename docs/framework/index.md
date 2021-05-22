@@ -14,7 +14,7 @@ Horizom est un Framework de développement d'applications - un toolkit \(trousse
 ## Exigences du serveur
 
 * HTTP Server. Par exemple: Apache. mod\_rewrite est préférable, mais en aucun cas nécessaire
-* PHP 7.4 et plus
+* PHP 7.4 ou plus
 
 ## Installation
 

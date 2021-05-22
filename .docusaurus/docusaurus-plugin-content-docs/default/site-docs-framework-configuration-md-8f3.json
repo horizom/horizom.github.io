@@ -21,7 +21,7 @@
     "permalink": "/docs/framework/installation"
   },
   "next": {
-    "title": "Introduction",
-    "permalink": "/docs/framework/auth/index"
+    "title": "Controller",
+    "permalink": "/docs/framework/basics/controller"
   }
 }

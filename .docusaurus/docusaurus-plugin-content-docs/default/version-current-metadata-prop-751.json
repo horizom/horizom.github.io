@@ -4,23 +4,7 @@
   "label": "Next",
   "isLast": true,
   "docsSidebars": {
-    "cms": [
-      {
-        "type": "link",
-        "label": "Introduction",
-        "href": "/docs/cms"
-      },
-      {
-        "type": "link",
-        "label": "Installation",
-        "href": "/docs/cms/installation"
-      },
-      {
-        "type": "link",
-        "label": "Configuration",
-        "href": "/docs/cms/configuration"
-      }
-    ],
+    "cms": [],
     "framework": [
       {
         "type": "link",
@@ -39,19 +23,7 @@
       },
       {
         "type": "category",
-        "label": "auth",
-        "items": [
-          {
-            "type": "link",
-            "label": "Introduction",
-            "href": "/docs/framework/auth/index"
-          }
-        ],
-        "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "basics",
+        "label": "The Basics",
         "items": [
           {
             "type": "link",
@@ -73,7 +45,24 @@
       },
       {
         "type": "category",
-        "label": "database",
+        "label": "Routing",
+        "items": [
+          {
+            "type": "link",
+            "label": "Attaching Route Groups",
+            "href": "/docs/framework/routing/attaching-route-groups"
+          },
+          {
+            "type": "link",
+            "label": "Defining Routes",
+            "href": "/docs/framework/routing/defining-routes"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "Database",
         "items": [
           {
             "type": "link",
@@ -95,17 +84,12 @@
       },
       {
         "type": "category",
-        "label": "routing",
+        "label": "Authentication",
         "items": [
           {
             "type": "link",
-            "label": "Attaching Route Groups",
-            "href": "/docs/framework/routing/attaching-route-groups"
-          },
-          {
-            "type": "link",
-            "label": "Defining Routes",
-            "href": "/docs/framework/routing/defining-routes"
+            "label": "Introduction",
+            "href": "/docs/framework/auth/index"
           }
         ],
         "collapsed": true
@@ -113,9 +97,6 @@
     ]
   },
   "permalinkToSidebar": {
-    "/docs/cms/configuration": "cms",
-    "/docs/cms": "cms",
-    "/docs/cms/installation": "cms",
     "/docs/framework/auth/index": "framework",
     "/docs/framework/basics/controller": "framework",
     "/docs/framework/basics/request": "framework",

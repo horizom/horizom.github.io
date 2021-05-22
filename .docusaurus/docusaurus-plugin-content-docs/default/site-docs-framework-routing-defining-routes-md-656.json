@@ -15,5 +15,9 @@
   "previous": {
     "title": "Attaching Route Groups",
     "permalink": "/docs/framework/routing/attaching-route-groups"
+  },
+  "next": {
+    "title": "getting-started",
+    "permalink": "/docs/framework/database/getting-started"
   }
 }

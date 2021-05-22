@@ -20,7 +20,7 @@
     "permalink": "/docs/framework/basics/request"
   },
   "next": {
-    "title": "getting-started",
-    "permalink": "/docs/framework/database/getting-started"
+    "title": "Attaching Route Groups",
+    "permalink": "/docs/framework/routing/attaching-route-groups"
   }
 }

@@ -16,8 +16,8 @@
   },
   "sidebar": "framework",
   "previous": {
-    "title": "Introduction",
-    "permalink": "/docs/framework/auth/index"
+    "title": "Configuration",
+    "permalink": "/docs/framework/configuration"
   },
   "next": {
     "title": "Request",
