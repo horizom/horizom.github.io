@@ -28,84 +28,40 @@
         "href": "/docs/framework"
       },
       {
-        "type": "link",
-        "label": "Installation",
-        "href": "/docs/framework/installation"
-      },
-      {
-        "type": "link",
-        "label": "Configuration",
-        "href": "/docs/framework/configuration"
-      },
-      {
         "type": "category",
-        "label": "auth",
-        "items": [
-          {
-            "type": "link",
-            "label": "Introduction",
-            "href": "/docs/framework/auth/index"
-          }
-        ],
-        "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "basics",
+        "label": "Bases",
         "items": [
           {
             "type": "link",
             "label": "Controller",
-            "href": "/docs/framework/basics/controller"
+            "href": "/docs/framework/Bases/controller"
           },
           {
             "type": "link",
             "label": "Request",
-            "href": "/docs/framework/basics/request"
+            "href": "/docs/framework/Bases/request"
           },
           {
             "type": "link",
             "label": "Response",
-            "href": "/docs/framework/basics/response"
+            "href": "/docs/framework/Bases/response"
           }
         ],
         "collapsed": true
       },
       {
         "type": "category",
-        "label": "database",
+        "label": "Routes",
         "items": [
           {
             "type": "link",
-            "label": "getting-started",
-            "href": "/docs/framework/database/getting-started"
+            "label": "Création de routes groupées",
+            "href": "/docs/framework/Routes/attaching-route-groups"
           },
           {
             "type": "link",
-            "label": "Introduction",
-            "href": "/docs/framework/database/migrations"
-          },
-          {
-            "type": "link",
-            "label": "orm",
-            "href": "/docs/framework/database/orm"
-          }
-        ],
-        "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "routing",
-        "items": [
-          {
-            "type": "link",
-            "label": "Attaching Route Groups",
-            "href": "/docs/framework/routing/attaching-route-groups"
-          },
-          {
-            "type": "link",
-            "label": "Defining Routes",
-            "href": "/docs/framework/routing/defining-routes"
+            "label": "Création de routes simples",
+            "href": "/docs/framework/Routes/defining-routes"
           }
         ],
         "collapsed": true
@@ -116,17 +72,11 @@
     "/docs/cms/configuration": "cms",
     "/docs/cms": "cms",
     "/docs/cms/installation": "cms",
-    "/docs/framework/auth/index": "framework",
-    "/docs/framework/basics/controller": "framework",
-    "/docs/framework/basics/request": "framework",
-    "/docs/framework/basics/response": "framework",
-    "/docs/framework/configuration": "framework",
-    "/docs/framework/database/getting-started": "framework",
-    "/docs/framework/database/migrations": "framework",
-    "/docs/framework/database/orm": "framework",
+    "/docs/framework/Bases/controller": "framework",
+    "/docs/framework/Bases/request": "framework",
+    "/docs/framework/Bases/response": "framework",
     "/docs/framework": "framework",
-    "/docs/framework/installation": "framework",
-    "/docs/framework/routing/attaching-route-groups": "framework",
-    "/docs/framework/routing/defining-routes": "framework"
+    "/docs/framework/Routes/attaching-route-groups": "framework",
+    "/docs/framework/Routes/defining-routes": "framework"
   }
 }

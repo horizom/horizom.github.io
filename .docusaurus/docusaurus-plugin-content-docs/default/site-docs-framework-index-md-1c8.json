@@ -19,7 +19,7 @@
   },
   "sidebar": "framework",
   "next": {
-    "title": "Installation",
-    "permalink": "/docs/framework/installation"
+    "title": "Controller",
+    "permalink": "/docs/framework/Bases/controller"
   }
 }

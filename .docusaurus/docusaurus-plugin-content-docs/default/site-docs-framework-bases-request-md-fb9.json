@@ -1,0 +1,26 @@
+{
+  "unversionedId": "framework/Bases/request",
+  "id": "framework/Bases/request",
+  "isDocsHomePage": false,
+  "title": "Request",
+  "description": "HTTP Requests",
+  "source": "@site/docs/framework/Bases/request.md",
+  "sourceDirName": "framework/Bases",
+  "slug": "/framework/Bases/request",
+  "permalink": "/docs/framework/Bases/request",
+  "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/Bases/request.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Request",
+    "description": "HTTP Requests"
+  },
+  "sidebar": "framework",
+  "previous": {
+    "title": "Controller",
+    "permalink": "/docs/framework/Bases/controller"
+  },
+  "next": {
+    "title": "Response",
+    "permalink": "/docs/framework/Bases/response"
+  }
+}

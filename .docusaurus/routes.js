@@ -8,51 +8,6 @@ export default [
   exact: true,
 },
 {
-  path: '/blog',
-  component: ComponentCreator('/blog','373'),
-  exact: true,
-},
-{
-  path: '/blog/hello-world',
-  component: ComponentCreator('/blog/hello-world','40c'),
-  exact: true,
-},
-{
-  path: '/blog/hola',
-  component: ComponentCreator('/blog/hola','ddd'),
-  exact: true,
-},
-{
-  path: '/blog/tags',
-  component: ComponentCreator('/blog/tags','d5d'),
-  exact: true,
-},
-{
-  path: '/blog/tags/docusaurus',
-  component: ComponentCreator('/blog/tags/docusaurus','618'),
-  exact: true,
-},
-{
-  path: '/blog/tags/facebook',
-  component: ComponentCreator('/blog/tags/facebook','426'),
-  exact: true,
-},
-{
-  path: '/blog/tags/hello',
-  component: ComponentCreator('/blog/tags/hello','723'),
-  exact: true,
-},
-{
-  path: '/blog/tags/hola',
-  component: ComponentCreator('/blog/tags/hola','526'),
-  exact: true,
-},
-{
-  path: '/blog/welcome',
-  component: ComponentCreator('/blog/welcome','bf7'),
-  exact: true,
-},
-{
   path: '/cms/',
   component: ComponentCreator('/cms/','9c8'),
   exact: true,
@@ -84,7 +39,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','565'),
+  component: ComponentCreator('/docs','ce9'),
   
   routes: [
 {
@@ -108,58 +63,28 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/framework/auth/index',
-  component: ComponentCreator('/docs/framework/auth/index','3e5'),
+  path: '/docs/framework/Bases/controller',
+  component: ComponentCreator('/docs/framework/Bases/controller','68b'),
   exact: true,
 },
 {
-  path: '/docs/framework/basics/controller',
-  component: ComponentCreator('/docs/framework/basics/controller','bc9'),
+  path: '/docs/framework/Bases/request',
+  component: ComponentCreator('/docs/framework/Bases/request','d94'),
   exact: true,
 },
 {
-  path: '/docs/framework/basics/request',
-  component: ComponentCreator('/docs/framework/basics/request','e58'),
+  path: '/docs/framework/Bases/response',
+  component: ComponentCreator('/docs/framework/Bases/response','ca9'),
   exact: true,
 },
 {
-  path: '/docs/framework/basics/response',
-  component: ComponentCreator('/docs/framework/basics/response','5cc'),
+  path: '/docs/framework/Routes/attaching-route-groups',
+  component: ComponentCreator('/docs/framework/Routes/attaching-route-groups','bff'),
   exact: true,
 },
 {
-  path: '/docs/framework/configuration',
-  component: ComponentCreator('/docs/framework/configuration','44d'),
-  exact: true,
-},
-{
-  path: '/docs/framework/database/getting-started',
-  component: ComponentCreator('/docs/framework/database/getting-started','bf0'),
-  exact: true,
-},
-{
-  path: '/docs/framework/database/migrations',
-  component: ComponentCreator('/docs/framework/database/migrations','416'),
-  exact: true,
-},
-{
-  path: '/docs/framework/database/orm',
-  component: ComponentCreator('/docs/framework/database/orm','fb8'),
-  exact: true,
-},
-{
-  path: '/docs/framework/installation',
-  component: ComponentCreator('/docs/framework/installation','731'),
-  exact: true,
-},
-{
-  path: '/docs/framework/routing/attaching-route-groups',
-  component: ComponentCreator('/docs/framework/routing/attaching-route-groups','34c'),
-  exact: true,
-},
-{
-  path: '/docs/framework/routing/defining-routes',
-  component: ComponentCreator('/docs/framework/routing/defining-routes','0b3'),
+  path: '/docs/framework/Routes/defining-routes',
+  component: ComponentCreator('/docs/framework/Routes/defining-routes','11b'),
   exact: true,
 },
 ]

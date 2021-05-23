@@ -41,7 +41,6 @@ module.exports = {
                     position: 'right',
                     label: 'CMS',
                 },
-                { to: '/blog', label: 'Blog', position: 'right' },
                 {
                     type: 'search',
                     position: 'right',
@@ -69,14 +68,9 @@ module.exports = {
                 {
                     title: 'More',
                     items: [{
-                            label: 'Blog',
-                            to: '/blog',
-                        },
-                        {
-                            label: 'GitHub',
-                            href: 'https://github.com/horizom',
-                        },
-                    ],
+                        label: 'GitHub',
+                        href: 'https://github.com/horizom',
+                    }, ],
                 },
                 {
                     title: 'Legal',
@@ -100,7 +94,8 @@ module.exports = {
                 src: 'img/cdi-logo-white.png',
                 href: 'https://www.codivoire.com',
             },
-            copyright: `Copyright © ${new Date().getFullYear()} Horizom, Inc. Built with Docusaurus.`,
+
+            copyright: `Copyright © ${new Date().getFullYear()} Horizom, Inc.`,
         },
         prism: {
             theme: require('prism-react-renderer/themes/shadesOfPurple'),

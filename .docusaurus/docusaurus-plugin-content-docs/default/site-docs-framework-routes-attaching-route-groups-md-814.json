@@ -1,0 +1,23 @@
+{
+  "unversionedId": "framework/Routes/attaching-route-groups",
+  "id": "framework/Routes/attaching-route-groups",
+  "isDocsHomePage": false,
+  "title": "Création de routes groupées",
+  "description": "Vous pouvez ajouter une série de route sous un seul chemin principal à l'aide de la méthode",
+  "source": "@site/docs/framework/Routes/attaching-route-groups.md",
+  "sourceDirName": "framework/Routes",
+  "slug": "/framework/Routes/attaching-route-groups",
+  "permalink": "/docs/framework/Routes/attaching-route-groups",
+  "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/Routes/attaching-route-groups.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "framework",
+  "previous": {
+    "title": "Response",
+    "permalink": "/docs/framework/Bases/response"
+  },
+  "next": {
+    "title": "Création de routes simples",
+    "permalink": "/docs/framework/Routes/defining-routes"
+  }
+}

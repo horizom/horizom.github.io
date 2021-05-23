@@ -35,73 +35,35 @@
                 "id": "framework/index"
               },
               {
-                "type": "doc",
-                "id": "framework/installation"
-              },
-              {
-                "type": "doc",
-                "id": "framework/configuration"
-              },
-              {
                 "type": "category",
-                "label": "auth",
+                "label": "Bases",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "framework/auth/index"
+                    "id": "framework/Bases/controller"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "framework/Bases/request"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "framework/Bases/response"
                   }
                 ],
                 "collapsed": true
               },
               {
                 "type": "category",
-                "label": "basics",
+                "label": "Routes",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "framework/basics/controller"
+                    "id": "framework/Routes/attaching-route-groups"
                   },
                   {
                     "type": "doc",
-                    "id": "framework/basics/request"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "framework/basics/response"
-                  }
-                ],
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "database",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "framework/database/getting-started"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "framework/database/migrations"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "framework/database/orm"
-                  }
-                ],
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "routing",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "framework/routing/attaching-route-groups"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "framework/routing/defining-routes"
+                    "id": "framework/Routes/defining-routes"
                   }
                 ],
                 "collapsed": true
@@ -112,18 +74,12 @@
             "/docs/cms/configuration": "cms",
             "/docs/cms": "cms",
             "/docs/cms/installation": "cms",
-            "/docs/framework/auth/index": "framework",
-            "/docs/framework/basics/controller": "framework",
-            "/docs/framework/basics/request": "framework",
-            "/docs/framework/basics/response": "framework",
-            "/docs/framework/configuration": "framework",
-            "/docs/framework/database/getting-started": "framework",
-            "/docs/framework/database/migrations": "framework",
-            "/docs/framework/database/orm": "framework",
+            "/docs/framework/Bases/controller": "framework",
+            "/docs/framework/Bases/request": "framework",
+            "/docs/framework/Bases/response": "framework",
             "/docs/framework": "framework",
-            "/docs/framework/installation": "framework",
-            "/docs/framework/routing/attaching-route-groups": "framework",
-            "/docs/framework/routing/defining-routes": "framework"
+            "/docs/framework/Routes/attaching-route-groups": "framework",
+            "/docs/framework/Routes/defining-routes": "framework"
           },
           "docs": [
             {
@@ -202,41 +158,16 @@
               }
             },
             {
-              "unversionedId": "framework/auth/index",
-              "id": "framework/auth/index",
-              "isDocsHomePage": false,
-              "title": "Introduction",
-              "description": "Authentication for PHP. Simple, lightweight and secure.",
-              "source": "@site/docs/framework/auth/index.md",
-              "sourceDirName": "framework/auth",
-              "slug": "/framework/auth/index",
-              "permalink": "/docs/framework/auth/index",
-              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/auth/index.md",
-              "version": "current",
-              "frontMatter": {
-                "title": "Introduction"
-              },
-              "sidebar": "framework",
-              "previous": {
-                "title": "Configuration",
-                "permalink": "/docs/framework/configuration"
-              },
-              "next": {
-                "title": "Controller",
-                "permalink": "/docs/framework/basics/controller"
-              }
-            },
-            {
-              "unversionedId": "framework/basics/controller",
-              "id": "framework/basics/controller",
+              "unversionedId": "framework/Bases/controller",
+              "id": "framework/Bases/controller",
               "isDocsHomePage": false,
               "title": "Controller",
               "description": "Route Controller",
-              "source": "@site/docs/framework/basics/controller.md",
-              "sourceDirName": "framework/basics",
-              "slug": "/framework/basics/controller",
-              "permalink": "/docs/framework/basics/controller",
-              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/basics/controller.md",
+              "source": "@site/docs/framework/Bases/controller.md",
+              "sourceDirName": "framework/Bases",
+              "slug": "/framework/Bases/controller",
+              "permalink": "/docs/framework/Bases/controller",
+              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/Bases/controller.md",
               "version": "current",
               "frontMatter": {
                 "title": "Controller",
@@ -245,24 +176,24 @@
               "sidebar": "framework",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/docs/framework/auth/index"
+                "permalink": "/docs/framework"
               },
               "next": {
                 "title": "Request",
-                "permalink": "/docs/framework/basics/request"
+                "permalink": "/docs/framework/Bases/request"
               }
             },
             {
-              "unversionedId": "framework/basics/request",
-              "id": "framework/basics/request",
+              "unversionedId": "framework/Bases/request",
+              "id": "framework/Bases/request",
               "isDocsHomePage": false,
               "title": "Request",
               "description": "HTTP Requests",
-              "source": "@site/docs/framework/basics/request.md",
-              "sourceDirName": "framework/basics",
-              "slug": "/framework/basics/request",
-              "permalink": "/docs/framework/basics/request",
-              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/basics/request.md",
+              "source": "@site/docs/framework/Bases/request.md",
+              "sourceDirName": "framework/Bases",
+              "slug": "/framework/Bases/request",
+              "permalink": "/docs/framework/Bases/request",
+              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/Bases/request.md",
               "version": "current",
               "frontMatter": {
                 "title": "Request",
@@ -271,24 +202,24 @@
               "sidebar": "framework",
               "previous": {
                 "title": "Controller",
-                "permalink": "/docs/framework/basics/controller"
+                "permalink": "/docs/framework/Bases/controller"
               },
               "next": {
                 "title": "Response",
-                "permalink": "/docs/framework/basics/response"
+                "permalink": "/docs/framework/Bases/response"
               }
             },
             {
-              "unversionedId": "framework/basics/response",
-              "id": "framework/basics/response",
+              "unversionedId": "framework/Bases/response",
+              "id": "framework/Bases/response",
               "isDocsHomePage": false,
               "title": "Response",
               "description": "HTTP Responses",
-              "source": "@site/docs/framework/basics/response.md",
-              "sourceDirName": "framework/basics",
-              "slug": "/framework/basics/response",
-              "permalink": "/docs/framework/basics/response",
-              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/basics/response.md",
+              "source": "@site/docs/framework/Bases/response.md",
+              "sourceDirName": "framework/Bases",
+              "slug": "/framework/Bases/response",
+              "permalink": "/docs/framework/Bases/response",
+              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/Bases/response.md",
               "version": "current",
               "frontMatter": {
                 "title": "Response",
@@ -297,107 +228,11 @@
               "sidebar": "framework",
               "previous": {
                 "title": "Request",
-                "permalink": "/docs/framework/basics/request"
+                "permalink": "/docs/framework/Bases/request"
               },
               "next": {
-                "title": "getting-started",
-                "permalink": "/docs/framework/database/getting-started"
-              }
-            },
-            {
-              "unversionedId": "framework/configuration",
-              "id": "framework/configuration",
-              "isDocsHomePage": false,
-              "title": "Configuration",
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "source": "@site/docs/framework/configuration.md",
-              "sourceDirName": "framework",
-              "slug": "/framework/configuration",
-              "permalink": "/docs/framework/configuration",
-              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/configuration.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Configuration",
-                "sidebar_position": 3
-              },
-              "sidebar": "framework",
-              "previous": {
-                "title": "Installation",
-                "permalink": "/docs/framework/installation"
-              },
-              "next": {
-                "title": "Introduction",
-                "permalink": "/docs/framework/auth/index"
-              }
-            },
-            {
-              "unversionedId": "framework/database/getting-started",
-              "id": "framework/database/getting-started",
-              "isDocsHomePage": false,
-              "title": "getting-started",
-              "description": "",
-              "source": "@site/docs/framework/database/getting-started.md",
-              "sourceDirName": "framework/database",
-              "slug": "/framework/database/getting-started",
-              "permalink": "/docs/framework/database/getting-started",
-              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/database/getting-started.md",
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "framework",
-              "previous": {
-                "title": "Response",
-                "permalink": "/docs/framework/basics/response"
-              },
-              "next": {
-                "title": "Introduction",
-                "permalink": "/docs/framework/database/migrations"
-              }
-            },
-            {
-              "unversionedId": "framework/database/migrations",
-              "id": "framework/database/migrations",
-              "isDocsHomePage": false,
-              "title": "Introduction",
-              "description": "Migrations are like version control for your database, allowing your team to define and share the application's database schema definition. If you have ever had to tell a teammate to manually add a column to their local database schema after pulling in your changes from source control, you've faced the problem that database migrations solve.",
-              "source": "@site/docs/framework/database/migrations.md",
-              "sourceDirName": "framework/database",
-              "slug": "/framework/database/migrations",
-              "permalink": "/docs/framework/database/migrations",
-              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/database/migrations.md",
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "framework",
-              "previous": {
-                "title": "getting-started",
-                "permalink": "/docs/framework/database/getting-started"
-              },
-              "next": {
-                "title": "orm",
-                "permalink": "/docs/framework/database/orm"
-              }
-            },
-            {
-              "unversionedId": "framework/database/orm",
-              "id": "framework/database/orm",
-              "isDocsHomePage": false,
-              "title": "orm",
-              "description": "",
-              "source": "@site/docs/framework/database/orm.md",
-              "sourceDirName": "framework/database",
-              "slug": "/framework/database/orm",
-              "permalink": "/docs/framework/database/orm",
-              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/database/orm.md",
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "framework",
-              "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/framework/database/migrations"
-              },
-              "next": {
-                "title": "Attaching Route Groups",
-                "permalink": "/docs/framework/routing/attaching-route-groups"
+                "title": "Création de routes groupées",
+                "permalink": "/docs/framework/Routes/attaching-route-groups"
               }
             },
             {
@@ -421,77 +256,50 @@
               },
               "sidebar": "framework",
               "next": {
-                "title": "Installation",
-                "permalink": "/docs/framework/installation"
+                "title": "Controller",
+                "permalink": "/docs/framework/Bases/controller"
               }
             },
             {
-              "unversionedId": "framework/installation",
-              "id": "framework/installation",
+              "unversionedId": "framework/Routes/attaching-route-groups",
+              "id": "framework/Routes/attaching-route-groups",
               "isDocsHomePage": false,
-              "title": "Installation",
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-              "source": "@site/docs/framework/installation.md",
-              "sourceDirName": "framework",
-              "slug": "/framework/installation",
-              "permalink": "/docs/framework/installation",
-              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/installation.md",
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "title": "Installation",
-                "sidebar_position": 2
-              },
-              "sidebar": "framework",
-              "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/framework"
-              },
-              "next": {
-                "title": "Configuration",
-                "permalink": "/docs/framework/configuration"
-              }
-            },
-            {
-              "unversionedId": "framework/routing/attaching-route-groups",
-              "id": "framework/routing/attaching-route-groups",
-              "isDocsHomePage": false,
-              "title": "Attaching Route Groups",
-              "description": "You can add a series of routes under a single master path in the Map using the Map::attach() method with a name prefix, path prefix, and a callable to perform the attachment logic. The callable must take a Map as its only argument.",
-              "source": "@site/docs/framework/routing/attaching-route-groups.md",
-              "sourceDirName": "framework/routing",
-              "slug": "/framework/routing/attaching-route-groups",
-              "permalink": "/docs/framework/routing/attaching-route-groups",
-              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/routing/attaching-route-groups.md",
+              "title": "Création de routes groupées",
+              "description": "Vous pouvez ajouter une série de route sous un seul chemin principal à l'aide de la méthode",
+              "source": "@site/docs/framework/Routes/attaching-route-groups.md",
+              "sourceDirName": "framework/Routes",
+              "slug": "/framework/Routes/attaching-route-groups",
+              "permalink": "/docs/framework/Routes/attaching-route-groups",
+              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/Routes/attaching-route-groups.md",
               "version": "current",
               "frontMatter": {},
               "sidebar": "framework",
               "previous": {
-                "title": "orm",
-                "permalink": "/docs/framework/database/orm"
+                "title": "Response",
+                "permalink": "/docs/framework/Bases/response"
               },
               "next": {
-                "title": "Defining Routes",
-                "permalink": "/docs/framework/routing/defining-routes"
+                "title": "Création de routes simples",
+                "permalink": "/docs/framework/Routes/defining-routes"
               }
             },
             {
-              "unversionedId": "framework/routing/defining-routes",
-              "id": "framework/routing/defining-routes",
+              "unversionedId": "framework/Routes/defining-routes",
+              "id": "framework/Routes/defining-routes",
               "isDocsHomePage": false,
-              "title": "Defining Routes",
-              "description": "Every time you add a route to the Map, you get back a Route object. The Route object is pretty powerful, and allows you to define a wide range of matching conditions. All of the Route methods are fluent, so you can chain them together.",
-              "source": "@site/docs/framework/routing/defining-routes.md",
-              "sourceDirName": "framework/routing",
-              "slug": "/framework/routing/defining-routes",
-              "permalink": "/docs/framework/routing/defining-routes",
-              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/routing/defining-routes.md",
+              "title": "Création de routes simples",
+              "description": "Il existe deux fichiers de routes chez Horizom, un pour les routes API et l'autre pour les routes WEB, les deux fichiers se trouvent dans le dossier routes a la racine de votre projet.",
+              "source": "@site/docs/framework/Routes/defining-routes.md",
+              "sourceDirName": "framework/Routes",
+              "slug": "/framework/Routes/defining-routes",
+              "permalink": "/docs/framework/Routes/defining-routes",
+              "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/Routes/defining-routes.md",
               "version": "current",
               "frontMatter": {},
               "sidebar": "framework",
               "previous": {
-                "title": "Attaching Route Groups",
-                "permalink": "/docs/framework/routing/attaching-route-groups"
+                "title": "Création de routes groupées",
+                "permalink": "/docs/framework/Routes/attaching-route-groups"
               }
             }
           ]
@@ -500,156 +308,7 @@
     }
   },
   "docusaurus-plugin-content-blog": {
-    "default": {
-      "blogPosts": [
-        {
-          "id": "welcome",
-          "metadata": {
-            "permalink": "/blog/welcome",
-            "editUrl": "https://github.com/horizom/docs/edit/master/blog/blog/2019-05-30-welcome.md",
-            "source": "@site/blog/2019-05-30-welcome.md",
-            "title": "Welcome",
-            "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
-            "date": "2019-05-30T00:00:00.000Z",
-            "formattedDate": "May 30, 2019",
-            "tags": [
-              {
-                "label": "facebook",
-                "permalink": "/blog/tags/facebook"
-              },
-              {
-                "label": "hello",
-                "permalink": "/blog/tags/hello"
-              },
-              {
-                "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
-              }
-            ],
-            "readingTime": 0.175,
-            "truncated": false,
-            "nextItem": {
-              "title": "Hello",
-              "permalink": "/blog/hello-world"
-            }
-          }
-        },
-        {
-          "id": "hello-world",
-          "metadata": {
-            "permalink": "/blog/hello-world",
-            "editUrl": "https://github.com/horizom/docs/edit/master/blog/blog/2019-05-29-hello-world.md",
-            "source": "@site/blog/2019-05-29-hello-world.md",
-            "title": "Hello",
-            "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
-            "date": "2019-05-29T00:00:00.000Z",
-            "formattedDate": "May 29, 2019",
-            "tags": [
-              {
-                "label": "hello",
-                "permalink": "/blog/tags/hello"
-              },
-              {
-                "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
-              }
-            ],
-            "readingTime": 0.12,
-            "truncated": true,
-            "prevItem": {
-              "title": "Welcome",
-              "permalink": "/blog/welcome"
-            },
-            "nextItem": {
-              "title": "Hola",
-              "permalink": "/blog/hola"
-            }
-          }
-        },
-        {
-          "id": "hola",
-          "metadata": {
-            "permalink": "/blog/hola",
-            "editUrl": "https://github.com/horizom/docs/edit/master/blog/blog/2019-05-28-hola.md",
-            "source": "@site/blog/2019-05-28-hola.md",
-            "title": "Hola",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
-            "date": "2019-05-28T00:00:00.000Z",
-            "formattedDate": "May 28, 2019",
-            "tags": [
-              {
-                "label": "hola",
-                "permalink": "/blog/tags/hola"
-              },
-              {
-                "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
-              }
-            ],
-            "readingTime": 0.12,
-            "truncated": false,
-            "prevItem": {
-              "title": "Hello",
-              "permalink": "/blog/hello-world"
-            }
-          }
-        }
-      ],
-      "blogListPaginated": [
-        {
-          "metadata": {
-            "permalink": "/blog",
-            "page": 1,
-            "postsPerPage": 3,
-            "totalPages": 1,
-            "totalCount": 3,
-            "previousPage": null,
-            "nextPage": null,
-            "blogDescription": "Where Clutch open-source maintainers and contributors share their work and thoughts on development.",
-            "blogTitle": "Clutch Open-source Developer Blog"
-          },
-          "items": [
-            "welcome",
-            "hello-world",
-            "hola"
-          ]
-        }
-      ],
-      "blogTags": {
-        "facebook": {
-          "name": "facebook",
-          "items": [
-            "welcome"
-          ],
-          "permalink": "/blog/tags/facebook"
-        },
-        "hello": {
-          "name": "hello",
-          "items": [
-            "welcome",
-            "hello-world"
-          ],
-          "permalink": "/blog/tags/hello"
-        },
-        "docusaurus": {
-          "name": "docusaurus",
-          "items": [
-            "welcome",
-            "hello-world",
-            "hola"
-          ],
-          "permalink": "/blog/tags/docusaurus"
-        },
-        "hola": {
-          "name": "hola",
-          "items": [
-            "hola"
-          ],
-          "permalink": "/blog/tags/hola"
-        }
-      },
-      "blogTagsListPath": "/blog/tags"
-    }
+    "default": null
   },
   "docusaurus-plugin-content-pages": {
     "default": [

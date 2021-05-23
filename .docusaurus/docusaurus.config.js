@@ -47,11 +47,6 @@ export default {
           "activeSidebarClassName": "navbar__link--active"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "right"
-        },
-        {
           "type": "search",
           "position": "right"
         }
@@ -82,10 +77,6 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "GitHub",
               "href": "https://github.com/horizom"
             }
@@ -114,7 +105,7 @@ export default {
         "src": "img/cdi-logo-white.png",
         "href": "https://www.codivoire.com"
       },
-      "copyright": "Copyright © 2021 Horizom, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2021 Horizom, Inc."
     },
     "prism": {
       "theme": {

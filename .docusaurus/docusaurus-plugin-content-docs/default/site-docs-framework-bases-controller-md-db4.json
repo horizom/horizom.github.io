@@ -1,0 +1,26 @@
+{
+  "unversionedId": "framework/Bases/controller",
+  "id": "framework/Bases/controller",
+  "isDocsHomePage": false,
+  "title": "Controller",
+  "description": "Route Controller",
+  "source": "@site/docs/framework/Bases/controller.md",
+  "sourceDirName": "framework/Bases",
+  "slug": "/framework/Bases/controller",
+  "permalink": "/docs/framework/Bases/controller",
+  "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/Bases/controller.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Controller",
+    "description": "Route Controller"
+  },
+  "sidebar": "framework",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/framework"
+  },
+  "next": {
+    "title": "Request",
+    "permalink": "/docs/framework/Bases/request"
+  }
+}

@@ -26,43 +26,18 @@
               "sidebar": "cms"
             },
             {
-              "id": "framework/auth/index",
-              "path": "/docs/framework/auth/index",
+              "id": "framework/Bases/controller",
+              "path": "/docs/framework/Bases/controller",
               "sidebar": "framework"
             },
             {
-              "id": "framework/basics/controller",
-              "path": "/docs/framework/basics/controller",
+              "id": "framework/Bases/request",
+              "path": "/docs/framework/Bases/request",
               "sidebar": "framework"
             },
             {
-              "id": "framework/basics/request",
-              "path": "/docs/framework/basics/request",
-              "sidebar": "framework"
-            },
-            {
-              "id": "framework/basics/response",
-              "path": "/docs/framework/basics/response",
-              "sidebar": "framework"
-            },
-            {
-              "id": "framework/configuration",
-              "path": "/docs/framework/configuration",
-              "sidebar": "framework"
-            },
-            {
-              "id": "framework/database/getting-started",
-              "path": "/docs/framework/database/getting-started",
-              "sidebar": "framework"
-            },
-            {
-              "id": "framework/database/migrations",
-              "path": "/docs/framework/database/migrations",
-              "sidebar": "framework"
-            },
-            {
-              "id": "framework/database/orm",
-              "path": "/docs/framework/database/orm",
+              "id": "framework/Bases/response",
+              "path": "/docs/framework/Bases/response",
               "sidebar": "framework"
             },
             {
@@ -71,18 +46,13 @@
               "sidebar": "framework"
             },
             {
-              "id": "framework/installation",
-              "path": "/docs/framework/installation",
+              "id": "framework/Routes/attaching-route-groups",
+              "path": "/docs/framework/Routes/attaching-route-groups",
               "sidebar": "framework"
             },
             {
-              "id": "framework/routing/attaching-route-groups",
-              "path": "/docs/framework/routing/attaching-route-groups",
-              "sidebar": "framework"
-            },
-            {
-              "id": "framework/routing/defining-routes",
-              "path": "/docs/framework/routing/defining-routes",
+              "id": "framework/Routes/defining-routes",
+              "path": "/docs/framework/Routes/defining-routes",
               "sidebar": "framework"
             }
           ]

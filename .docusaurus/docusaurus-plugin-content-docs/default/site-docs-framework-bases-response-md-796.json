@@ -1,0 +1,26 @@
+{
+  "unversionedId": "framework/Bases/response",
+  "id": "framework/Bases/response",
+  "isDocsHomePage": false,
+  "title": "Response",
+  "description": "HTTP Responses",
+  "source": "@site/docs/framework/Bases/response.md",
+  "sourceDirName": "framework/Bases",
+  "slug": "/framework/Bases/response",
+  "permalink": "/docs/framework/Bases/response",
+  "editUrl": "https://github.com/horizom/docs/edit/master/docs/framework/Bases/response.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Response",
+    "description": "HTTP Responses"
+  },
+  "sidebar": "framework",
+  "previous": {
+    "title": "Request",
+    "permalink": "/docs/framework/Bases/request"
+  },
+  "next": {
+    "title": "Création de routes groupées",
+    "permalink": "/docs/framework/Routes/attaching-route-groups"
+  }
+}

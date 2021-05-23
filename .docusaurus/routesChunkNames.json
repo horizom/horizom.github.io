@@ -3,91 +3,6 @@
     "component": "c4f5d8e4",
     "config": "5e9f5e1a"
   },
-  "/blog-373": {
-    "component": "a6aa9e1f",
-    "sidebar": "8cc685bc",
-    "items": [
-      {
-        "content": "af172acd"
-      },
-      {
-        "content": "3570154c"
-      },
-      {
-        "content": "8e9f0a8a"
-      }
-    ],
-    "metadata": "b2b675dd"
-  },
-  "/blog/hello-world-40c": {
-    "component": "ccc49370",
-    "sidebar": "8cc685bc",
-    "content": "d610846f"
-  },
-  "/blog/hola-ddd": {
-    "component": "ccc49370",
-    "sidebar": "8cc685bc",
-    "content": "bdd709f1"
-  },
-  "/blog/tags-d5d": {
-    "component": "01a85c17",
-    "sidebar": "8cc685bc",
-    "tags": "a7023ddc"
-  },
-  "/blog/tags/docusaurus-618": {
-    "component": "6875c492",
-    "sidebar": "8cc685bc",
-    "items": [
-      {
-        "content": "af172acd"
-      },
-      {
-        "content": "3570154c"
-      },
-      {
-        "content": "8e9f0a8a"
-      }
-    ],
-    "metadata": "a80da1cf"
-  },
-  "/blog/tags/facebook-426": {
-    "component": "6875c492",
-    "sidebar": "8cc685bc",
-    "items": [
-      {
-        "content": "af172acd"
-      }
-    ],
-    "metadata": "031793e1"
-  },
-  "/blog/tags/hello-723": {
-    "component": "6875c492",
-    "sidebar": "8cc685bc",
-    "items": [
-      {
-        "content": "af172acd"
-      },
-      {
-        "content": "3570154c"
-      }
-    ],
-    "metadata": "30a24c52"
-  },
-  "/blog/tags/hola-526": {
-    "component": "6875c492",
-    "sidebar": "8cc685bc",
-    "items": [
-      {
-        "content": "8e9f0a8a"
-      }
-    ],
-    "metadata": "e16015ca"
-  },
-  "/blog/welcome-bf7": {
-    "component": "ccc49370",
-    "sidebar": "8cc685bc",
-    "content": "2868cdab"
-  },
   "/cms/-9c8": {
     "component": "5495746f",
     "config": "5e9f5e1a"
@@ -111,7 +26,7 @@
   "/search-79a": {
     "component": "1a4e3797"
   },
-  "/docs-565": {
+  "/docs-ce9": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -131,48 +46,24 @@
     "component": "17896441",
     "content": "1c857aa8"
   },
-  "/docs/framework/auth/index-3e5": {
+  "/docs/framework/Bases/controller-68b": {
     "component": "17896441",
-    "content": "55f8eda8"
+    "content": "db4195cf"
   },
-  "/docs/framework/basics/controller-bc9": {
+  "/docs/framework/Bases/request-d94": {
     "component": "17896441",
-    "content": "aa30a2e8"
+    "content": "fb9fd8e7"
   },
-  "/docs/framework/basics/request-e58": {
+  "/docs/framework/Bases/response-ca9": {
     "component": "17896441",
-    "content": "c91fec70"
+    "content": "796b8d3e"
   },
-  "/docs/framework/basics/response-5cc": {
+  "/docs/framework/Routes/attaching-route-groups-bff": {
     "component": "17896441",
-    "content": "544d9088"
+    "content": "8148e8aa"
   },
-  "/docs/framework/configuration-44d": {
+  "/docs/framework/Routes/defining-routes-11b": {
     "component": "17896441",
-    "content": "8f3524e9"
-  },
-  "/docs/framework/database/getting-started-bf0": {
-    "component": "17896441",
-    "content": "b3a7302d"
-  },
-  "/docs/framework/database/migrations-416": {
-    "component": "17896441",
-    "content": "32bc98ed"
-  },
-  "/docs/framework/database/orm-fb8": {
-    "component": "17896441",
-    "content": "6a3cd048"
-  },
-  "/docs/framework/installation-731": {
-    "component": "17896441",
-    "content": "469b4962"
-  },
-  "/docs/framework/routing/attaching-route-groups-34c": {
-    "component": "17896441",
-    "content": "d6747ddd"
-  },
-  "/docs/framework/routing/defining-routes-0b3": {
-    "component": "17896441",
-    "content": "656c3405"
+    "content": "d23611f4"
   }
 }
