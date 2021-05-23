@@ -43,6 +43,10 @@ C'est tout!
 
 ## Mise en route de Horizom
 
+Il vous est possible de démarrer Horizom avec le serveur php local grâce à la commnde ci-dessous
+```bash
+php -S localhost:8000 -t public
+```
 Toute application nécessite des efforts d'apprentissage. Nous avons fait de notre mieux pour minimiser le processus en le rendant aussi agréable que possible.
 
 Horizom est framework ready-to-use \(prêt à l'emploi\), l'étape majeure consiste donc à l'installer, alors lisez le sujet sur l'installation dans la section ci-dessus.
