@@ -43,7 +43,7 @@ C'est tout!
 
 ## Mise en route de Horizom
 
-Toute application logicielle nécessite des efforts d'apprentissage. Nous avons fait de notre mieux pour minimiser le processus en le rendant aussi agréable que possible.
+Toute application nécessite des efforts d'apprentissage. Nous avons fait de notre mieux pour minimiser le processus en le rendant aussi agréable que possible.
 
 Horizom est framework ready-to-use \(prêt à l'emploi\), l'étape majeure consiste donc à l'installer, alors lisez le sujet sur l'installation dans la section ci-dessus.
 
@@ -55,14 +55,14 @@ Une fois que vous comprenez les bases, vous serez en mesure d'explorer les pages
 
 Vous pouvez trouver une liste de toutes les modifications pour chaque version dans le [journal des modifications](https://github.com/horizom/docs/blob/master/CHANGELOG.md) du guide de l'utilisateur.
 
-## Vulnérabilités de sécurité
+## Vulnérabilités
 
-Si vous découvrez une vulnérabilité de sécurité au sein de Horizom, veuillez envoyer un courrier électronique à Roland Edi à info.Horizom@gmail.com. Toutes les vulnérabilités de sécurité seront traitées rapidement.
+Si vous découvrez une vulnérabilité au sein de Horizom, veuillez le marquer dans [Github Issues](https://github.com/horizom/framework/issues). Toutes les vulnérabilités de sécurité seront traitées rapidement.
 
 ## License
 
 Consultez le [Contrat de Licence](https://github.com/horizom/docs/blob/master/LICENSE.md).
 
-## Reconnaissance
+## Remerciements
 
-L'équipe Horizom tient à remercier tous les contributeurs au projet et vous, l'utilisateur de Horizom.
+L'équipe Horizom tient à remercier tous les contributeurs et utilisateurs de Horizom.

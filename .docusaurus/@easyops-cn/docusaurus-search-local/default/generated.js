@@ -5,4 +5,4 @@ export const Mark = null;
 export const indexHash = null;
 export const searchResultLimits = 8;
 export const searchResultContextMaxLength = 50;
-export const translations = {"search_placeholder":"Search","see_all_results":"See all results","no_results":"No results.","search_results_for":"Search results for \"{{ keyword }}\"","search_the_documentation":"Search the documentation","count_documents_found_plural":"{{ count }} documents found","count_documents_found":"{{ count }} document found","no_documents_were_found":"No documents were found"};
+export const translations = {"search_placeholder":"Rechercher","see_all_results":"Voir tous les résultats","no_results":"Aucun résultat.","search_results_for":"Résultats de recherche pour \"{{ keyword }}\"","search_the_documentation":"Rechercher la documentation","count_documents_found":"{{ count }} document trouvé","count_documents_found_plural":"{{ count }} documents trouvés","no_documents_were_found":"Aucun document n'a été trouvé"};

@@ -4,7 +4,7 @@
 
 module.exports = {
     title: 'Horizom',
-    tagline: 'A PHP lightness framework & CMS',
+    tagline: 'A lightness PHP framework & CMS',
     url: 'https://horizom.github.io',
     baseUrl: '/',
     onBrokenLinks: 'ignore',
@@ -36,12 +36,6 @@ module.exports = {
                     label: 'Framework',
                 },
                 {
-                    type: 'doc',
-                    docId: 'cms/index',
-                    position: 'right',
-                    label: 'CMS',
-                },
-                {
                     type: 'search',
                     position: 'right',
                 },
@@ -50,7 +44,7 @@ module.exports = {
         footer: {
             style: 'dark',
             links: [{
-                    title: 'Community',
+                    title: 'Communauté',
                     items: [{
                             label: 'Stack Overflow',
                             href: 'https://stackoverflow.com/questions/tagged/horizom',
@@ -60,31 +54,34 @@ module.exports = {
                             href: 'https://discordapp.com/invite/horizom',
                         },
                         {
-                            label: 'Twitter',
-                            href: 'https://twitter.com/horizom',
+                            label: 'WhatsApp (Tchat)',
+                            href: 'https://chat.whatsapp.com/K3PR6I5QNhr1eW9gyMIn0M',
                         },
                     ],
                 },
                 {
-                    title: 'More',
+                    title: 'Extras',
                     items: [{
-                        label: 'GitHub',
-                        href: 'https://github.com/horizom',
+                        label: 'Codec Solutions',
+                        href: 'https://www.codecci.com/',
+                    }, {
+                        label: 'CodIvoire News',
+                        href: 'https://www.codivoire.com/',
                     }, ],
                 },
                 {
-                    title: 'Legal',
+                    title: 'Sources',
                     items: [{
-                            label: 'Privacy',
-                            href: '/legal/privacy/',
+                            label: 'Framework',
+                            href: 'https://github.com/horizom/framework',
                         },
                         {
-                            label: 'Terms',
-                            href: '/legal/terms/',
+                            label: 'Core',
+                            href: 'https://github.com/horizom/core',
                         },
                         {
-                            label: 'Cookie Policy',
-                            href: '/legal/cookie-policy/',
+                            label: 'Documentation',
+                            href: 'https://github.com/horizom/horizom.github.io',
                         },
                     ],
                 },
@@ -133,6 +130,16 @@ module.exports = {
             require.resolve("@easyops-cn/docusaurus-search-local"),
             {
                 hashed: true,
+                translations: {
+                    "search_placeholder": "Rechercher",
+                    "see_all_results": "Voir tous les résultats",
+                    "no_results": "Aucun résultat.",
+                    "search_results_for": "Résultats de recherche pour \"{{ keyword }}\"",
+                    "search_the_documentation": "Rechercher la documentation",
+                    "count_documents_found": "{{ count }} document trouvé",
+                    "count_documents_found_plural": "{{ count }} documents trouvés",
+                    "no_documents_were_found": "Aucun document n'a été trouvé"
+                },
             },
         ]
     ],
