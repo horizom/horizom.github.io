@@ -33,9 +33,33 @@ module.exports = {
                     type: 'doc',
                     docId: 'framework/index',
                     position: 'right',
-                    label: 'Framework',
+                    label: 'Introduction',
                 },
                 {
+                    label: 'Bases',
+                    position: 'right',
+                    items: [{
+                        label: 'Controller',
+                        to: 'docs/framework/Bases/controller'
+                    }, {
+                        label: 'Request',
+                        to: 'docs/framework/Bases/request'
+                    }, {
+                        label: 'Response',
+                        to: 'docs/framework/Bases/response'
+                    }, ],
+                },
+                {
+                    label: 'Routes',
+                    position: 'right',
+                    items: [{
+                        label: 'Routes simple',
+                        to: 'docs/framework/Routes/defining-routes'
+                    }, {
+                        label: 'Routes groupées',
+                        to: 'docs/framework/Routes/attaching-route-groups'
+                    }],
+                }, {
                     type: 'search',
                     position: 'right',
                 },

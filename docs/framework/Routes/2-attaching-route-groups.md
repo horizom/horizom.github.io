@@ -1,4 +1,4 @@
-# Création de routes groupées
+# Routes groupées
 
 Vous pouvez ajouter une série de route sous un seul chemin principal à l'aide de la méthode 
 `$router->group()` en définissant un prefixe,

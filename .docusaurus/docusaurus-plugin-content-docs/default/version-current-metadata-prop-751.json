@@ -4,64 +4,54 @@
   "label": "Next",
   "isLast": true,
   "docsSidebars": {
-    "cms": [
-      {
-        "type": "link",
-        "label": "Introduction",
-        "href": "/docs/cms"
-      },
-      {
-        "type": "link",
-        "label": "Installation",
-        "href": "/docs/cms/installation"
-      },
-      {
-        "type": "link",
-        "label": "Configuration",
-        "href": "/docs/cms/configuration"
-      }
-    ],
     "framework": [
       {
-        "type": "link",
-        "label": "Introduction",
-        "href": "/docs/framework"
-      },
-      {
         "type": "category",
-        "label": "Bases",
+        "label": "framework",
         "items": [
           {
             "type": "link",
-            "label": "Controller",
-            "href": "/docs/framework/Bases/controller"
+            "label": "Introduction",
+            "href": "/docs/framework"
           },
           {
-            "type": "link",
-            "label": "Request",
-            "href": "/docs/framework/Bases/request"
+            "type": "category",
+            "label": "Bases",
+            "items": [
+              {
+                "type": "link",
+                "label": "Controller",
+                "href": "/docs/framework/Bases/controller"
+              },
+              {
+                "type": "link",
+                "label": "Request",
+                "href": "/docs/framework/Bases/request"
+              },
+              {
+                "type": "link",
+                "label": "Response",
+                "href": "/docs/framework/Bases/response"
+              }
+            ],
+            "collapsed": true
           },
           {
-            "type": "link",
-            "label": "Response",
-            "href": "/docs/framework/Bases/response"
-          }
-        ],
-        "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "Routes",
-        "items": [
-          {
-            "type": "link",
-            "label": "Création de routes groupées",
-            "href": "/docs/framework/Routes/attaching-route-groups"
-          },
-          {
-            "type": "link",
-            "label": "Création de routes simples",
-            "href": "/docs/framework/Routes/defining-routes"
+            "type": "category",
+            "label": "Routes",
+            "items": [
+              {
+                "type": "link",
+                "label": "Routes simples",
+                "href": "/docs/framework/Routes/defining-routes"
+              },
+              {
+                "type": "link",
+                "label": "Routes groupées",
+                "href": "/docs/framework/Routes/attaching-route-groups"
+              }
+            ],
+            "collapsed": true
           }
         ],
         "collapsed": true
@@ -69,9 +59,6 @@
     ]
   },
   "permalinkToSidebar": {
-    "/docs/cms/configuration": "cms",
-    "/docs/cms": "cms",
-    "/docs/cms/installation": "cms",
     "/docs/framework/Bases/controller": "framework",
     "/docs/framework/Bases/request": "framework",
     "/docs/framework/Bases/response": "framework",

@@ -1,69 +1,148 @@
 {
   "/-deb": {
-    "component": "c4f5d8e4",
-    "config": "5e9f5e1a"
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
   },
-  "/cms/-9c8": {
-    "component": "5495746f",
-    "config": "5e9f5e1a"
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/framework/-013": {
-    "component": "cbd62c95",
-    "config": "5e9f5e1a"
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/legal/cookie-policy-359": {
-    "component": "1f391b9e",
-    "content": "66667b99"
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/legal/privacy-aab": {
-    "component": "1f391b9e",
-    "content": "2e582d36"
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
   },
-  "/legal/terms-a9d": {
-    "component": "1f391b9e",
-    "content": "dce22fdb"
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/blog-373": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-8-cc-867",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      },
+      {
+        "content": "content---blog-357-22b"
+      },
+      {
+        "content": "content---blog-8-e-9-35c"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/hello-world-40c": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-8-cc-867",
+    "content": "content---blog-hello-worldd-61-086"
+  },
+  "/blog/hola-ddd": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-8-cc-867",
+    "content": "content---blog-holabdd-150"
+  },
+  "/blog/tags-d5d": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blog-8-cc-867",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/docusaurus-618": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-8-cc-867",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      },
+      {
+        "content": "content---blog-357-22b"
+      },
+      {
+        "content": "content---blog-8-e-9-35c"
+      }
+    ],
+    "metadata": "metadata---blog-tags-docusaurusa-80-728"
+  },
+  "/blog/tags/facebook-426": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-8-cc-867",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      }
+    ],
+    "metadata": "metadata---blog-tags-facebook-031-c52"
+  },
+  "/blog/tags/hello-723": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-8-cc-867",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      },
+      {
+        "content": "content---blog-357-22b"
+      }
+    ],
+    "metadata": "metadata---blog-tags-hello-30-a-bed"
+  },
+  "/blog/tags/hola-526": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-8-cc-867",
+    "items": [
+      {
+        "content": "content---blog-8-e-9-35c"
+      }
+    ],
+    "metadata": "metadata---blog-tags-holae-16-18a"
+  },
+  "/blog/welcome-bf7": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-8-cc-867",
+    "content": "content---blog-welcome-286-e55"
+  },
+  "/markdown-page-be1": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-393-028"
   },
   "/search-79a": {
-    "component": "1a4e3797"
+    "component": "component---theme-search-page-1-a-4-d6f"
   },
-  "/docs-ce9": {
-    "component": "1be78505",
-    "versionMetadata": "935f2afb"
-  },
-  "/docs/cms-f89": {
-    "component": "17896441",
-    "content": "8172490d"
-  },
-  "/docs/cms/configuration-842": {
-    "component": "17896441",
-    "content": "590d2842"
-  },
-  "/docs/cms/installation-e64": {
-    "component": "17896441",
-    "content": "7522266f"
+  "/docs-c71": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
   },
   "/docs/framework-e11": {
-    "component": "17896441",
-    "content": "1c857aa8"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-1-c-8-ccd"
   },
   "/docs/framework/Bases/controller-68b": {
-    "component": "17896441",
-    "content": "db4195cf"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-bases-controllerdb-4-bff"
   },
   "/docs/framework/Bases/request-d94": {
-    "component": "17896441",
-    "content": "fb9fd8e7"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-bases-requestfb-9-483"
   },
   "/docs/framework/Bases/response-ca9": {
-    "component": "17896441",
-    "content": "796b8d3e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-bases-response-796-d10"
   },
-  "/docs/framework/Routes/attaching-route-groups-bff": {
-    "component": "17896441",
-    "content": "8148e8aa"
+  "/docs/framework/Routes/attaching-route-groups-6b1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-routes-attaching-route-groupscf-0-87a"
   },
-  "/docs/framework/Routes/defining-routes-11b": {
-    "component": "17896441",
-    "content": "d23611f4"
+  "/docs/framework/Routes/defining-routes-e79": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-framework-routes-defining-routesf-09-d8b"
   }
 }

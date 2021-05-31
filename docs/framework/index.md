@@ -43,7 +43,12 @@ C'est tout!
 
 ## Mise en route de Horizom
 
-Il vous est possible de démarrer Horizom avec le serveur php local grâce à la commnde ci-dessous
+Il vous est possible de démarrer Horizom avec le serveur php local grâce aux commandes ci-dessous
+```bash
+composer start
+```
+ou alors
+
 ```bash
 php -S localhost:8000 -t public
 ```

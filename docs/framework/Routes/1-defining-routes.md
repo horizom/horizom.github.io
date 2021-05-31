@@ -1,4 +1,4 @@
-# Création de routes simples
+# Routes simples
 Il existe deux fichiers de routes chez Horizom, un pour les routes `API` et l'autre pour les routes `WEB`, les deux fichiers se trouvent dans le dossier `routes` a la racine de votre projet.
 
 Chaque fois que vous ajoutez une route à la collection, vous récupérez un objet `$router`. L'objet `$router` est assez puissant et vous permet de définir un large éventail de conditions de correspondance. Toutes les méthodes `$router` sont fluides, vous pouvez donc les enchaîner.

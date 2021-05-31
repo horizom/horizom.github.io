@@ -8,23 +8,8 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "cms/index",
+          "mainDocId": "framework/index",
           "docs": [
-            {
-              "id": "cms/configuration",
-              "path": "/docs/cms/configuration",
-              "sidebar": "cms"
-            },
-            {
-              "id": "cms/index",
-              "path": "/docs/cms",
-              "sidebar": "cms"
-            },
-            {
-              "id": "cms/installation",
-              "path": "/docs/cms/installation",
-              "sidebar": "cms"
-            },
             {
               "id": "framework/Bases/controller",
               "path": "/docs/framework/Bases/controller",

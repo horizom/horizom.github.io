@@ -20,7 +20,7 @@
     "permalink": "/docs/framework/Bases/request"
   },
   "next": {
-    "title": "Création de routes groupées",
-    "permalink": "/docs/framework/Routes/attaching-route-groups"
+    "title": "Routes simples",
+    "permalink": "/docs/framework/Routes/defining-routes"
   }
 }
