@@ -14,7 +14,7 @@
     "title": "Response",
     "description": "HTTP Responses"
   },
-  "sidebar": "framework",
+  "sidebar": "Framework",
   "previous": {
     "title": "Request",
     "permalink": "/docs/framework/Bases/request"

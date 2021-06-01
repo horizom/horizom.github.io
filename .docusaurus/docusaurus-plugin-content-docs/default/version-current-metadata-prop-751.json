@@ -4,7 +4,7 @@
   "label": "Next",
   "isLast": true,
   "docsSidebars": {
-    "framework": [
+    "Framework": [
       {
         "type": "category",
         "label": "framework",
@@ -59,11 +59,11 @@
     ]
   },
   "permalinkToSidebar": {
-    "/docs/framework/Bases/controller": "framework",
-    "/docs/framework/Bases/request": "framework",
-    "/docs/framework/Bases/response": "framework",
-    "/docs/framework": "framework",
-    "/docs/framework/Routes/attaching-route-groups": "framework",
-    "/docs/framework/Routes/defining-routes": "framework"
+    "/docs/framework/Bases/controller": "Framework",
+    "/docs/framework/Bases/request": "Framework",
+    "/docs/framework/Bases/response": "Framework",
+    "/docs/framework": "Framework",
+    "/docs/framework/Routes/attaching-route-groups": "Framework",
+    "/docs/framework/Routes/defining-routes": "Framework"
   }
 }

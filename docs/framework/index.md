@@ -39,8 +39,6 @@ Une mesure supplémentaire à prendre dans les environnements de production est 
 
 C'est tout!
 
-> Si vous êtes nouveau sur Horizom, lisez la section Mise en route du [Guide d'utilisation](https://horizom.gitbook.io) pour commencer à apprendre comment créer des applications PHP dynamiques.
-
 ## Mise en route de Horizom
 
 Il vous est possible de démarrer Horizom avec le serveur php local grâce aux commandes ci-dessous
@@ -59,10 +57,6 @@ Horizom est framework ready-to-use \(prêt à l'emploi\), l'étape majeure consi
 Ensuite, lisez chaque page des sujets généraux dans l'ordre. Chaque sujet s'appuie sur le précédent, et comprend des exemples de code que vous êtes encouragés à essayer.
 
 Une fois que vous comprenez les bases, vous serez en mesure d'explorer les pages de référence de classe et de référence d'aide pour apprendre à utiliser les différentes bibliothèques.
-
-## Journal des modifications et Nouvelles fonctionnalités
-
-Vous pouvez trouver une liste de toutes les modifications pour chaque version dans le [journal des modifications](https://github.com/horizom/docs/blob/master/CHANGELOG.md) du guide de l'utilisateur.
 
 ## Vulnérabilités
 

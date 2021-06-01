@@ -13,32 +13,32 @@
             {
               "id": "framework/Bases/controller",
               "path": "/docs/framework/Bases/controller",
-              "sidebar": "framework"
+              "sidebar": "Framework"
             },
             {
               "id": "framework/Bases/request",
               "path": "/docs/framework/Bases/request",
-              "sidebar": "framework"
+              "sidebar": "Framework"
             },
             {
               "id": "framework/Bases/response",
               "path": "/docs/framework/Bases/response",
-              "sidebar": "framework"
+              "sidebar": "Framework"
             },
             {
               "id": "framework/index",
               "path": "/docs/framework",
-              "sidebar": "framework"
+              "sidebar": "Framework"
             },
             {
               "id": "framework/Routes/attaching-route-groups",
               "path": "/docs/framework/Routes/attaching-route-groups",
-              "sidebar": "framework"
+              "sidebar": "Framework"
             },
             {
               "id": "framework/Routes/defining-routes",
               "path": "/docs/framework/Routes/defining-routes",
-              "sidebar": "framework"
+              "sidebar": "Framework"
             }
           ]
         }

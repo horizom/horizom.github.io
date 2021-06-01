@@ -14,7 +14,7 @@
     "title": "Request",
     "description": "HTTP Requests"
   },
-  "sidebar": "framework",
+  "sidebar": "Framework",
   "previous": {
     "title": "Controller",
     "permalink": "/docs/framework/Bases/controller"

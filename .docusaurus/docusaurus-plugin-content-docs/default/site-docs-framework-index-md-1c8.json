@@ -17,7 +17,7 @@
     "title": "Introduction",
     "sidebar_position": 1
   },
-  "sidebar": "framework",
+  "sidebar": "Framework",
   "next": {
     "title": "Controller",
     "permalink": "/docs/framework/Bases/controller"
